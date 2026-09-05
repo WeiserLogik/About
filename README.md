@@ -2,41 +2,40 @@
 
 > **Software solutions for the financial sector.**
 
-Weiser Logik develops software focused on **financial systems, digital payments and business operations**.
+Weiser Logik develops software and technology solutions for the financial sector, with a focus on **digital payments, financial integrations and reliable business systems**.
 
-Our work combines backend engineering, system integration and automation to build reliable solutions for financial workflows.
+Our goal is to build technology that simplifies financial operations while maintaining reliability, security and maintainability.
+
+## Areas of Focus
+
+* **Digital Payments**
+* **Financial API Integrations**
+* **Banking Systems**
+* **Business Automation**
+* **Backend Engineering**
+
+## Engineering Principles
+
+We value:
+
+* Reliability in financial operations
+* Clear and maintainable architectures
+* Secure system integrations
+* Automation of repetitive workflows
+* Practical solutions to complex problems
+
+## Projects
+
+### Bank Suite PIX
+
+Payment and banking integration solutions focused on Pix operations.
+
+### SAP Payment Platform
+
+Solutions for integrating financial payment workflows with SAP environments.
 
 ---
 
-### `$ focus --list`
-
-```text
-payments       → Digital payment systems
-integrations   → Financial API integrations
-automation     → Financial workflows
-backend        → Reliable business services
-```
-
-### `$ principles`
-
-```text
-reliability   → Systems designed for real-world operations
-simplicity    → Clear solutions over unnecessary complexity
-security      → Responsible handling of financial data
-integration   → Systems that communicate reliably
-```
-
-### `$ projects`
-
-```text
-├── Bank Suite Pix
-└── SAP Payment Plataform 
-```
-
----
-
-<div align="center">
-
-`Weiser Logik — building software for financial operations.`
-
-</div>
+<p align="center">
+  <sub>Weiser Logik · Financial Software & Technology</sub>
+</p>
