@@ -1,4 +1,6 @@
-# Weiser Logik
+<img  height="300" alt="image" src="https://github.com/user-attachments/assets/3244f32b-10c6-49b0-813a-1cccd1f3e414" />
+
+---
 
 > **Software solutions for the financial sector.**
 
