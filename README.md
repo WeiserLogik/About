@@ -1,6 +1,5 @@
-<img  height="300" alt="image" src="https://github.com/user-attachments/assets/3244f32b-10c6-49b0-813a-1cccd1f3e414" />
 
----
+<img width="" height="300" alt="image" src="https://github.com/user-attachments/assets/c789de00-89ed-41fe-ad38-f5efa3a7c739" />
 
 > **Software solutions for the financial sector.**
 
